@@ -141,7 +141,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-4" value="管理员端功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3122" y="546" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-5" value="登录/注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-5" value="登录/注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="645" width="133" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-6" value="请假申请管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
