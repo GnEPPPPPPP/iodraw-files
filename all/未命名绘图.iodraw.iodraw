@@ -1133,18 +1133,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-461" value="审核" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0;entryX=0.554;entryY=1.091;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-326" target="PQB-W_LpsKYi8bfCkhUm-407">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0097" y="7" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2210" y="2090" />
               <mxPoint x="2130" y="2070" />
-              <mxPoint x="2100" y="2070" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-462" value="管理" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.89;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-339">
           <mxGeometry x="0.0546" y="37" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1930" y="2210" />
+              <mxPoint x="1940" y="2130" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
