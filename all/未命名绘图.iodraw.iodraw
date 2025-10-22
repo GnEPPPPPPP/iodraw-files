@@ -964,7 +964,7 @@
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-426" value="usage_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-424">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-426" value="编号" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-424">
           <mxGeometry x="42" width="102" height="22" as="geometry">
             <mxRectangle width="102" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -977,7 +977,7 @@
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-429" value="electricity_usage" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-427">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-429" value="用电量" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-427">
           <mxGeometry x="42" width="102" height="22" as="geometry">
             <mxRectangle width="102" height="22" as="alternateBounds" />
           </mxGeometry>
