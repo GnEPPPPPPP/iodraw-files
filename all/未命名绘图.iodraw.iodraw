@@ -1160,11 +1160,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-471" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PQB-W_LpsKYi8bfCkhUm-464">
-          <mxGeometry x="-0.278" y="-16" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-465" value="VERIFIED_BY" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-355" target="PQB-W_LpsKYi8bfCkhUm-371">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1174,7 +1169,9 @@
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-466" value="VERIFIED_BY" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.5;exitY=1;entryX=0.9;entryY=0.12;rounded=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-384" target="PQB-W_LpsKYi8bfCkhUm-397">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="2120" y="1900" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-467" value="RELATED_TO" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0;exitY=0.94;entryX=0.76;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-355" target="PQB-W_LpsKYi8bfCkhUm-384">
