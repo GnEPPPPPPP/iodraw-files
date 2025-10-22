@@ -1117,7 +1117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-459" value="RECEIVES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-439">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-459" value="接受" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-439">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1697" y="1518" />
