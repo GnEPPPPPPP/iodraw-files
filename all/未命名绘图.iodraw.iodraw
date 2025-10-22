@@ -543,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-326" value="辅导员" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2436" y="2014" width="128" height="135" as="geometry" />
+          <mxGeometry x="1974" y="2010" width="128" height="135" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-327" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-326">
           <mxGeometry y="25" width="128" height="22" as="geometry" />
@@ -1119,9 +1119,7 @@
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-460" value="审核" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.444;exitY=0.007;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.489;entryY=0.955;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-326" target="PQB-W_LpsKYi8bfCkhUm-381">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2470" y="1990" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="2776" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
