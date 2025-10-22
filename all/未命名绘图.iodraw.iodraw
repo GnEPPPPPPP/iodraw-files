@@ -331,7 +331,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-252" value="查询缴纳水电" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-253" value="签到" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-253" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-254" value="访客预约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
