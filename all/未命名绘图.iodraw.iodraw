@@ -1089,9 +1089,10 @@
             <mxRectangle width="108" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-455" value="提交" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.99;exitY=0.59;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-355">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-455" value="提交" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" target="PQB-W_LpsKYi8bfCkhUm-355">
           <mxGeometry x="-0.0031" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="2026" y="1480" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1100,7 +1101,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-457" value="签到" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-410">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-457" value="签到" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=19;exitDx=0;exitDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-317" target="PQB-W_LpsKYi8bfCkhUm-410">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -1129,8 +1130,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-462" value="管理" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.89;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-333">
-          <mxGeometry x="0.0546" y="37" relative="1" as="geometry">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-462" value="管理" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.448;exitY=1.11;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=19;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-352" target="PQB-W_LpsKYi8bfCkhUm-333">
+          <mxGeometry x="0.0015" y="-2" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
