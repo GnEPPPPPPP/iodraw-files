@@ -799,7 +799,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-387" value="cancellation_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-385">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-387" value="销假编号" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-385">
           <mxGeometry x="36" width="111" height="22" as="geometry">
             <mxRectangle width="111" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -812,7 +812,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-390" value="cancellation_date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-388">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-390" value="销假时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-388">
           <mxGeometry x="36" width="111" height="22" as="geometry">
             <mxRectangle width="111" height="22" as="alternateBounds" />
           </mxGeometry>
