@@ -151,13 +151,13 @@
           <mxGeometry x="1380" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-7" value="销假申请管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="740" width="50" height="160" as="geometry" />
+          <mxGeometry x="1450" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-8" value="签到管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1516" y="740" width="50" height="160" as="geometry" />
+          <mxGeometry x="1516" y="740" width="44" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-9" value="水电费查询与缴费" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1581" y="740" width="50" height="160" as="geometry" />
+          <mxGeometry x="1581" y="740" width="39" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-10" value="报修管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1650" y="740" width="50" height="160" as="geometry" />
