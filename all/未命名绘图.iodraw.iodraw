@@ -922,7 +922,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-416" value="attendance_date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-414">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-416" value="签到日期" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-414">
           <mxGeometry x="36" width="90" height="22" as="geometry">
             <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -935,7 +935,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-419" value="status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-417">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-419" value="状态" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-417">
           <mxGeometry x="36" width="90" height="22" as="geometry">
             <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
