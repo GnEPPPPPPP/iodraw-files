@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="-16" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="776" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,6 +172,89 @@
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-192" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-193" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1678" y="920" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-194" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1019" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-195" value="请假申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1019" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-196" value="销假申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1019" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-197" value="签到" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="1019" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-198" value="查询缴纳水电费" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1729" y="1019" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-199" value="报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1952" y="1019" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-200" value="访客预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2128" y="1019" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-201" value="查看公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2302" y="1019" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1123" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-195">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1298" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-204" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1473" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1633" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1816" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-207" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2015" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-208" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-200">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2190" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-209" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-193" target="PQB-W_LpsKYi8bfCkhUm-201">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2365" y="994" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
