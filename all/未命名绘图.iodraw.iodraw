@@ -151,7 +151,7 @@
           <mxGeometry x="536" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-8" value="签到管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="729" y="740" width="50" height="130" as="geometry" />
+          <mxGeometry x="856" y="740" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-9" value="水电费查询与缴费" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="921" y="740" width="50" height="190" as="geometry" />
@@ -161,9 +161,6 @@
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-11" value="访客预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1060" y="740" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-12" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="740" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-13" value="登录验证" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1890" y="740" width="50" height="130" as="geometry" />
@@ -264,7 +261,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-11">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-12" target="PQB-W_LpsKYi8bfCkhUm-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1364" y="620" />
@@ -327,6 +324,16 @@
               <mxPoint x="3843" y="620" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="967" y="579" as="sourcePoint" />
+            <mxPoint x="1110" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-12" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="740" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
