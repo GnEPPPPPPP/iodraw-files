@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="6035" dy="4090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2924" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,10 +172,10 @@
           <mxGeometry x="1960" y="740" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-15" value="销假核实" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="740" width="50" height="120" as="geometry" />
+          <mxGeometry x="2030" y="740" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-16" value="学生信息查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="740" width="50" height="160" as="geometry" />
+          <mxGeometry x="2100" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-17" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2410" y="740" width="50" height="120" as="geometry" />
@@ -276,12 +276,6 @@
             <Array as="points">
               <mxPoint x="1538" y="620" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="2050" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-4" target="PQB-W_LpsKYi8bfCkhUm-18">
