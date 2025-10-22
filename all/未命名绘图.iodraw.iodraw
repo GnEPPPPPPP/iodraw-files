@@ -1148,7 +1148,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-463" value="PUBLISHES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=0;entryX=0.523;entryY=1.091;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-452">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-463" value="发布" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=0;entryX=0.523;entryY=1.091;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-452">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
