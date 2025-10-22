@@ -1109,14 +1109,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-458" value="HAS_USAGE" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.66;entryX=0.94;entryY=0.27;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-423">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-458" value="HAS_USAGE" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-423">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1797" y="1518" />
+              <mxPoint x="1860" y="1520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-459" value="RECEIVES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.61;entryX=1;entryY=0.35;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-439">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-459" value="RECEIVES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-439">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1697" y="1518" />
