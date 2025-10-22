@@ -1140,10 +1140,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-462" value="MANAGES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.89;exitY=1;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-326">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-462" value="MANAGES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.89;exitY=1;entryX=-0.009;entryY=0.091;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-333">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1597" y="1518" />
+              <mxPoint x="1930" y="2210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1171,7 +1171,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-466" value="VERIFIED_BY" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.5;exitY=1;entryX=0.9;entryY=0.12;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-384" target="PQB-W_LpsKYi8bfCkhUm-397">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2275" y="1964" />
+              <mxPoint x="2120" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
