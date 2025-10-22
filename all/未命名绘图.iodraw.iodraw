@@ -1084,7 +1084,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-454" value="scope" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-452">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-454" value="范围" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-452">
           <mxGeometry x="36" width="92" height="22" as="geometry">
             <mxRectangle width="92" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -1145,7 +1145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-463" value="PUBLISHES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.55;exitY=1;entryX=1;entryY=0.18;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-439">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-463" value="PUBLISHES" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=0;entryX=1;entryY=0.18;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-342" target="PQB-W_LpsKYi8bfCkhUm-439">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1487" y="1518" />
