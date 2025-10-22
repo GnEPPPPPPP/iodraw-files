@@ -163,7 +163,7 @@
           <mxGeometry x="1060" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-13" value="登录验证" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="740" width="50" height="130" as="geometry" />
+          <mxGeometry x="1890" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-14" value="请假核实" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1960" y="740" width="50" height="160" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry x="2100" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-17" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="740" width="50" height="120" as="geometry" />
+          <mxGeometry x="2170" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-18" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2970" y="740" width="50" height="160" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry x="3250" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-24" value="系统日志与数据统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="3390" y="740" width="50" height="210" as="geometry" />
+          <mxGeometry x="3390" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-1" target="PQB-W_LpsKYi8bfCkhUm-2">
           <mxGeometry relative="1" as="geometry">
