@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3290" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1838" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
           <mxGeometry x="856" y="740" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-9" value="水电费查询与缴费" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="921" y="740" width="50" height="190" as="geometry" />
+          <mxGeometry x="921" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-10" value="报修管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="990" y="740" width="50" height="120" as="geometry" />
@@ -214,29 +214,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="3206" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=1;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="3299.999999999999" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-12" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1130" y="740" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=1;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-22" target="PQB-W_LpsKYi8bfCkhUm-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3400" y="790" />
-            </Array>
-            <mxPoint x="3300" y="820" as="sourcePoint" />
-            <mxPoint x="3299.999999999999" y="765" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-23" value="访客信息核验" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="3320" y="740" width="50" height="160" as="geometry" />
