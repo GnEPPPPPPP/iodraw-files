@@ -292,100 +292,86 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-23" value="访客信息核验" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;flipV=1;fontFamily=Helvetica;align=center;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="740" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-145" value="学生端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="3717" y="1037" width="1468" height="124" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-174" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="920" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-146" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="43" y="46" width="126" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-175" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1019" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-147" value="请假申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="219" y="46" width="125" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-176" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1019" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-148" value="销假申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="394" y="46" width="126" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-177" value="辅导员信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="782" y="1019" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-149" value="每日签到" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="570" y="46" width="124" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-178" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="1019" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-150" value="水电查询与缴费" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="744" y="46" width="172" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-179" value="水电管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="1019" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-151" value="在线报修" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="966" y="46" width="126" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-180" value="报修任务分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="1019" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-152" value="访客预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="1142" y="46" width="124" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-181" value="访客信息核验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="1019" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-153" value="查看公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-145">
-          <mxGeometry x="1316" y="46" width="125" height="49" as="geometry" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-182" value="系统数据统计与日志监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1772" y="1019" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-154" value="辅导员端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2914" y="1037" width="753" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-155" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-154">
-          <mxGeometry x="43" y="46" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-156" value="请假核实" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-154">
-          <mxGeometry x="219" y="46" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-157" value="销假核实" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-154">
-          <mxGeometry x="393" y="46" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-158" value="查看学生状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-154">
-          <mxGeometry x="568" y="46" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-159" value="管理员端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1037" width="1824" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-160" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="43" y="46" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-161" value="学生管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="219" y="46" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-162" value="辅导员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="394" y="46" width="142" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-163" value="请假审批" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="586" y="46" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-164" value="销假审批" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="761" y="46" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-165" value="签到数据管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="937" y="46" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-166" value="水电管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="1145" y="46" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-167" value="报修管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="1320" y="46" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-168" value="访客管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="1496" y="46" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-169" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-159">
-          <mxGeometry x="1671" y="46" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-170" value="大学生公寓动态智慧管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3164" y="920" width="253" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-171" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-170" target="PQB-W_LpsKYi8bfCkhUm-159">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-183" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-175">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1952" y="1012" />
+              <mxPoint x="463" y="994" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-172" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-170" target="PQB-W_LpsKYi8bfCkhUm-154">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-173" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-170" target="PQB-W_LpsKYi8bfCkhUm-145">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-184" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-176">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4451" y="1012" />
+              <mxPoint x="654" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1069" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-188" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1436" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-189" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1644" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-190" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-174" target="PQB-W_LpsKYi8bfCkhUm-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1890" y="994" />
             </Array>
           </mxGeometry>
         </mxCell>
