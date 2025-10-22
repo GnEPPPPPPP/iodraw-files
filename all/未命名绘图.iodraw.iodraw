@@ -170,7 +170,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-191" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="990" y="130" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-192" value="查询缴纳水电费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-192" value="查询缴纳水电" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-193" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -262,7 +262,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-214" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-215" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-215" value="报修申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-216" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
