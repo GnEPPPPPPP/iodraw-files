@@ -1105,6 +1105,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-497" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PQB-W_LpsKYi8bfCkhUm-456">
+          <mxGeometry x="-0.3044" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-457" value="签到" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-410">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -1112,9 +1117,7 @@
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-458" value="查询" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-423">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1860" y="1520" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-459" value="接受" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-304" target="PQB-W_LpsKYi8bfCkhUm-439">
