@@ -144,6 +144,12 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-3" target="PQB-W_LpsKYi8bfCkhUm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-3" target="PQB-W_LpsKYi8bfCkhUm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-3" target="PQB-W_LpsKYi8bfCkhUm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-3" value="辅导员端功能模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1968" y="550" width="184" height="49" as="geometry" />
         </mxCell>
@@ -204,23 +210,9 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-24" value="系统日志与数据统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="740" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-1" target="PQB-W_LpsKYi8bfCkhUm-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="881" y="521" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-1" target="PQB-W_LpsKYi8bfCkhUm-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-1" target="PQB-W_LpsKYi8bfCkhUm-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3216" y="521" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-12" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;flipH=1;" vertex="1" parent="1">
