@@ -310,9 +310,10 @@
             <mxPoint x="1100" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-242" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PQB-W_LpsKYi8bfCkhUm-240">
-          <mxGeometry x="-0.4292" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-243" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-191" target="PQB-W_LpsKYi8bfCkhUm-218">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="173" as="sourcePoint" />
+            <mxPoint x="1160" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
