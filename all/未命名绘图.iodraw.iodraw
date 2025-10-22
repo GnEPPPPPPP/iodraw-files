@@ -666,71 +666,71 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-355" value="请假申请" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2414" y="1568" width="138" height="135" as="geometry" />
+          <mxGeometry x="2380" y="1568" width="172" height="135" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-356" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-355">
-          <mxGeometry y="25" width="138" height="22" as="geometry" />
+          <mxGeometry y="25" width="172" height="22" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-357" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-356">
-          <mxGeometry width="36" height="22" as="geometry">
-            <mxRectangle width="36" height="22" as="alternateBounds" />
+          <mxGeometry width="60" height="22" as="geometry">
+            <mxRectangle width="60" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-358" value="编号" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-356">
-          <mxGeometry x="36" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="60" width="112" height="22" as="geometry">
+            <mxRectangle width="112" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-359" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-355">
-          <mxGeometry y="47" width="138" height="22" as="geometry" />
+          <mxGeometry y="47" width="172" height="22" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-360" value="date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-359">
-          <mxGeometry width="36" height="22" as="geometry">
-            <mxRectangle width="36" height="22" as="alternateBounds" />
+          <mxGeometry width="60" height="22" as="geometry">
+            <mxRectangle width="60" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-361" value="开始时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-359">
-          <mxGeometry x="36" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="60" width="112" height="22" as="geometry">
+            <mxRectangle width="112" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-362" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-355">
-          <mxGeometry y="69" width="138" height="22" as="geometry" />
+          <mxGeometry y="69" width="172" height="22" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-363" value="date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-362">
-          <mxGeometry width="36" height="22" as="geometry">
-            <mxRectangle width="36" height="22" as="alternateBounds" />
+          <mxGeometry width="60" height="22" as="geometry">
+            <mxRectangle width="60" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-364" value="结束时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-362">
-          <mxGeometry x="36" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="60" width="112" height="22" as="geometry">
+            <mxRectangle width="112" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-365" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-355">
-          <mxGeometry y="91" width="138" height="22" as="geometry" />
+          <mxGeometry y="91" width="172" height="22" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-366" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-365">
-          <mxGeometry width="36" height="22" as="geometry">
-            <mxRectangle width="36" height="22" as="alternateBounds" />
+          <mxGeometry width="60" height="22" as="geometry">
+            <mxRectangle width="60" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-367" value="原因" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-365">
-          <mxGeometry x="36" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="60" width="112" height="22" as="geometry">
+            <mxRectangle width="112" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-368" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-355">
-          <mxGeometry y="113" width="138" height="22" as="geometry" />
+          <mxGeometry y="113" width="172" height="22" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-369" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-368">
-          <mxGeometry width="36" height="22" as="geometry">
-            <mxRectangle width="36" height="22" as="alternateBounds" />
+          <mxGeometry width="60" height="22" as="geometry">
+            <mxRectangle width="60" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-370" value="状态" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-368">
-          <mxGeometry x="36" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="60" width="112" height="22" as="geometry">
+            <mxRectangle width="112" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-371" value="请假核实" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fontSize=19;" vertex="1" parent="1">
