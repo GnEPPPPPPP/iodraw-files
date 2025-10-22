@@ -990,7 +990,7 @@
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-432" value="water_usage" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-430">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-432" value="用水量" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-430">
           <mxGeometry x="42" width="102" height="22" as="geometry">
             <mxRectangle width="102" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -1003,7 +1003,7 @@
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-435" value="total_fee" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-433">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-435" value="总费用" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-433">
           <mxGeometry x="42" width="102" height="22" as="geometry">
             <mxRectangle width="102" height="22" as="alternateBounds" />
           </mxGeometry>
