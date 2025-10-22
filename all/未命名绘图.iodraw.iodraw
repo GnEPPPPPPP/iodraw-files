@@ -166,19 +166,19 @@
           <mxGeometry x="1720" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-13" value="登录验证" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="740" width="40" height="160" as="geometry" />
+          <mxGeometry x="1915" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-14" value="请假核实" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="740" width="40" height="160" as="geometry" />
+          <mxGeometry x="1978" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-15" value="销假核实" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2040" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-16" value="学生信息查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="740" width="40" height="160" as="geometry" />
+          <mxGeometry x="2103" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-17" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="740" width="40" height="160" as="geometry" />
+          <mxGeometry x="2165" y="740" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-18" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2270" y="740" width="50" height="160" as="geometry" />
