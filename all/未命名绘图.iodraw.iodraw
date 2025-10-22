@@ -256,7 +256,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-213" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-213" value="签到" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-214" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -268,7 +268,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-216" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="330" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-217" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-217" value="销假申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-218" value="请假申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
