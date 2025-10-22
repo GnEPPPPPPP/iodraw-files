@@ -151,9 +151,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1633" y="670" />
+              <mxPoint x="1459" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1633" y="670" />
+              <mxPoint x="1390" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-2" value="学生端功能模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
