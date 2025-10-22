@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2653" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="6035" dy="4090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,43 +217,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3216" y="521" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.2;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="770" y="790" />
-            </Array>
-            <mxPoint x="819.3999999999996" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.79;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="970" y="790" />
-            </Array>
-            <mxPoint x="920.8800000000006" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1190" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1364" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1538" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
