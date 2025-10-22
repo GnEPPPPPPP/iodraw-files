@@ -147,6 +147,15 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-2" target="PQB-W_LpsKYi8bfCkhUm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-2" value="学生端功能模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1547" y="550" width="172" height="49" as="geometry" />
         </mxCell>
