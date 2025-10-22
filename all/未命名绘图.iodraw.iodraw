@@ -178,10 +178,10 @@
           <mxGeometry x="2170" y="740" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-18" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="740" width="50" height="160" as="geometry" />
+          <mxGeometry x="2970" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-19" value="辅导员信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="740" width="50" height="170" as="geometry" />
+          <mxGeometry x="3040" y="740" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-20" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
           <mxGeometry x="3110" y="740" width="50" height="120" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry x="3250" y="740" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-24" value="系统日志与数据统计" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="3810" y="740" width="50" height="210" as="geometry" />
+          <mxGeometry x="3390" y="740" width="50" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-1" target="PQB-W_LpsKYi8bfCkhUm-2">
           <mxGeometry relative="1" as="geometry">
