@@ -176,7 +176,7 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-193" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1968" y="40" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-194" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-194" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;rounded=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="1354" y="139" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-195" value="请假申请" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
