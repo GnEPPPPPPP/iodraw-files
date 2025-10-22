@@ -592,7 +592,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-338" value="phone" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-336">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-338" value="电话" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-336">
           <mxGeometry x="36" width="72" height="22" as="geometry">
             <mxRectangle width="72" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -605,7 +605,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-341" value="department" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-339">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-341" value="院系" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-339">
           <mxGeometry x="36" width="72" height="22" as="geometry">
             <mxRectangle width="72" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -621,7 +621,7 @@
             <mxRectangle width="36" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-345" value="administrator_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-343">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-345" value="工号" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-343">
           <mxGeometry x="36" width="96" height="22" as="geometry">
             <mxRectangle width="96" height="22" as="alternateBounds" />
           </mxGeometry>
