@@ -899,7 +899,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-410" value="签到信息" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1988" y="1579" width="152" height="113" as="geometry" />
+          <mxGeometry x="2290" y="1280" width="152" height="113" as="geometry" />
         </mxCell>
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-411" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=19;" vertex="1" parent="PQB-W_LpsKYi8bfCkhUm-410">
           <mxGeometry y="25" width="152" height="22" as="geometry" />
