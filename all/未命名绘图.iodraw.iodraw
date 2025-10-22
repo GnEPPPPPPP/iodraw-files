@@ -1132,7 +1132,7 @@
             <mxPoint x="2960" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB-W_LpsKYi8bfCkhUm-461" value="REVIEWS" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.22;exitY=1;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-326" target="PQB-W_LpsKYi8bfCkhUm-397">
+        <mxCell id="PQB-W_LpsKYi8bfCkhUm-461" value="REVIEWS" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.009;exitY=0.045;entryX=0;entryY=0.31;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-333" target="PQB-W_LpsKYi8bfCkhUm-397">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2170" y="2100" />
