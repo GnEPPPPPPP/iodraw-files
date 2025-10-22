@@ -1135,8 +1135,8 @@
         <mxCell id="PQB-W_LpsKYi8bfCkhUm-461" value="REVIEWS" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0;entryX=0.554;entryY=1.091;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PQB-W_LpsKYi8bfCkhUm-326" target="PQB-W_LpsKYi8bfCkhUm-407">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2170" y="2100" />
-              <mxPoint x="1900" y="2110" />
+              <mxPoint x="2210" y="2090" />
+              <mxPoint x="2130" y="2070" />
               <mxPoint x="2080" y="2090" />
             </Array>
           </mxGeometry>
